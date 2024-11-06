@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         // Set environment variables, if needed
-        PROJECT_NAME = 'YourProjectName'
+        PROJECT_NAME = 'Opencrd'
         BUILD_VERSION = '1.0'
     }
 
